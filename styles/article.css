@@ -1,0 +1,123 @@
+
+.article-box{
+display: block;
+
+align-items: center;
+text-align: center;
+
+
+}
+
+
+
+
+
+.article-heading{
+
+font-size: 40px;
+
+}
+
+.game-detail{
+
+font-size: 16px;
+font-family: cambria;
+font-weight: 20px;
+color: blueviolet;
+}
+
+.rules-title{
+
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
+.profile-box{
+
+display: flex;
+flex-direction: row;
+align-items: center;
+width: 400px;
+background-color: rgb(248, 238, 239);
+padding-top: 15px;
+padding-bottom: 15px;
+border-radius: 15px;
+box-shadow: 1px 5px 1px  rgb(0,0,0,0.15s);
+cursor: pointer;
+margin-top: 15px;
+
+
+
+}
+
+.user-pic{
+    width: 45px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 30px;
+    
+}
+
+
+.competitor-title{
+
+    margin-top: 0px;
+    font-size: 25px;
+
+}
+
+.lvl-max{
+
+width: 200px;
+    color: red;
+    border: 2px;
+    border-width: 1px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.artist{
+
+    font-size: 16px;
+    font-family: cambria;
+    font-weight: 20px;
+    color: blueviolet;
+    margin-left: 8px;
+
+}
+
+.competition-img{
+width: 600px;
+height: 800px;
+margin-left: 10px;
+
+
+}
+
+.competition-img4{
+
+
+width: 1000px;
+height: 800px;
+margin-left: 10px;
+
+}
+
+
+.comment-text{
+
+font-size: 30px;
+font-family: arial;
+
+}
+
+.comment-box{
+
+
+width: 300px;
+height: 30px;
+border-radius: 25px;
+
+}
+
